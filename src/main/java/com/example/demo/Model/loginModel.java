@@ -3,7 +3,7 @@ package com.example.demo.Model;
 
 public class loginModel {
     
-    private String username;
+    private String username; //thsi variables should as input tag name attributer check Startpage.jsp
     private String password;
 
     public String getUsername() {
